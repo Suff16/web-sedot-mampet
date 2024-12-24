@@ -1,0 +1,15 @@
+.location-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-bottom: 1rem; /* Atur jarak bawah sesuai kebutuhan */
+  }
+
+.headerone {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; /* agar tetap berada di atas elemen lainnya */
+  }
+  
